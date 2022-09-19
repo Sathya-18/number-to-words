@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    border: 2px solid black;
+    padding: 100px;
+    background-color: antiquewhite;
+    line-height: 30px;
+    text-align: center;
+}
+p{
+    text-transform: capitalize;
+}
